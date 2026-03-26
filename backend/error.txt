@@ -1,0 +1,6 @@
+src/routes/auth.ts(68,26): error TS18048: 'data' is possibly 'undefined'.
+src/server.ts(28,21): error TS6133: 'req' is declared but its value is never read.
+src/server.ts(43,22): error TS6133: 'req' is declared but its value is never read.
+src/server.ts(43,67): error TS6133: 'next' is declared but its value is never read.
+src/server.ts(52,10): error TS6133: 'req' is declared but its value is never read.
+src/services/razorpay.ts(38,58): error TS6133: 'customerId' is declared but its value is never read.
